@@ -2,7 +2,7 @@
 
 In this Document using mongodb compass applicatiob i have given the Queries that i used to get data,
 
-# The Commands which i Executed
+## The Commands which i Executed
 
 Here the commands i executed for each Questions separately:
 
